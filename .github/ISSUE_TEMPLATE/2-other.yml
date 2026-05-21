@@ -1,16 +1,12 @@
 name: ❓ Other
 description: Create some other type of issue
-title: '❓ <title>'
-labels: ['🚦 needs triage']
 body:
   - type: checkboxes
     attributes:
       label: Is an Issue Type Set?
-      description: 'Choose a type for this issue: ♻️ refactor, ✅ test, 🌍 i18n, 🎨 style, 👷 ci, 📝 docs, 🔒 security, 🔧 build, 🗄️ epic, 🚀 performance.'
+      description: 'Choose a type for this issue: 🔧 build, 👷 ci, 📝 docs, ♻️ refactor, 🔒 security, 🎨 style, ✅ test.'
       options:
-        - label: I've added an emoji to the issue title
-          required: true
-        - label: I've added a label to the issue (if possible)
+        - label: I've added a type to the issue (if possible)
           required: false
   - type: textarea
     attributes:
