@@ -1,0 +1,6 @@
+{
+  "name": "Clear 'Stage' field on issue close",
+  "description": "Clears the org-level 'Stage' issue field when an issue is closed, keeping your kanban board in sync without manual updates.",
+  "iconName": "issue-closed",
+  "categories": ["automation"]
+}
