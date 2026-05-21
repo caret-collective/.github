@@ -17,9 +17,9 @@ Not a coder? See the [support resources](https://github.com/caret-collective/.gi
 
 ## Finding Issues to Work On
 
-Issues with the `🚦 ready` label are ready to be worked on. If you comment on an issue, I can assign it to you.
+Issues with the `🟢 ready` type are ready to be worked on. If you comment on an issue, I can assign it to you.
 
-Issues with the `🚦 needs triage` label generally need some more information before they can be worked on, but if you
+Issues without a type generally need some more information before they can be worked on, but if you
 **start a discussion** about it or leave a comment on the issue, I can likely get it ready for you.
 
 If an issue is unclear or you have any questions about how a feature should be implemented, reach out before making any
