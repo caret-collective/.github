@@ -6,9 +6,6 @@
 	<br/>
 </div>
 
-> [!NOTE]
-> 🚧 I'm busy moving projects here from my personal account. Check back soon for more!
-
 ## 👋 About
 
 This organization contains a selection of public, open-source projects that are maintained by [yours truly](https://github.com/twocaretcat). If you'd like to get involved, check out the [contributing](#-contributing) section below.
