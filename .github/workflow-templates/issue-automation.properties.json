@@ -1,0 +1,6 @@
+{
+	"name": "Issue Automation",
+	"description": "A workflow for automating issue lifecycle events across a GitHub organization.",
+	"iconName": "octicon issue-reopened",
+	"categories": ["Automation"]
+}
