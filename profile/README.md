@@ -1,16 +1,44 @@
 <div align="center">
-	<h1>Caret Collective</h1>
+	<h1 class="projectName">
+		<a href="https://caretcollective.cc" title="Caret Collective - Software worth maintaining">
+			<img
+				class="projectLogo"
+				src="https://raw.githubusercontent.com/caret-collective/brand-assets/main/logo.svg"
+				alt="Caret Collective"
+				title="Caret Collective"
+				height="96"
+			>
+		</a>
+	</h1>
 	<div class="projectDesc">
-		Community-driven open-source projects by <a href="https://github.com/twocaretcat">@twocaretcat</a>
+		SOFTWARE WORTH MAINTAINING.
 	</div>
 	<br/>
 </div>
 
 ## 👋 About
 
-This organization contains a selection of public, open-source projects that are maintained by [yours truly](https://github.com/twocaretcat). If you'd like to get involved, check out the [contributing](#-contributing) section below.
+This organization contains a selection of public, open-source projects maintained by [@twocaretcat](https://github.com/twocaretcat).
 
-Looking for my commercial projects? Check out [Caret Labs](https://github.com/caret-labs-co).
+### CREED
+
+Caret Collective is an independent home for open-source projects built with care and shaped with the community in mind. The aim is to create software that is useful in practice, thoughtful in design, and dependable over time.
+
+Each project is actively maintained, thoroughly documented, and open to contributions, feedback, and ideas. Want to get involved? Check out the [contributing](#-contributing) section below to report issues, contribute code, and help shape what comes next.
+
+### CODE
+
+> [!TIP]
+> Looking for my commercial projects? Check out [Caret Labs](https://github.com/caret-labs-co) instead.
+
+Check out the pinned repos below.
+
+### CONNECT
+
+| [💬 Join the discussion](https://github.com/orgs/caret-collective/discussions) | Ask questions, share feedback, and help shape the work through GitHub Discussions. |
+|:--|:--|
+| [🔔 Follow updates](https://x.com/twocaretcat) | Get notified when something exciting happens by following me on X. |
+| [💖 Support the work](https://patreon.com/twocaretcat) | Support my work, read detailed project updates, and get exclusive access to articles by becoming a member on Patreon. |
 
 ## 🛟 Support
 
