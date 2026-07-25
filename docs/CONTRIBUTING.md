@@ -4,7 +4,7 @@ Thanks for your interest in contributing to the project! We don't have a specifi
 
 ## Open to Contributions?
 
-Check the README first to see if this project accepts contributions. Most of my projects do, but some projects are not maintained or are for personal use only. If you're not sure, **create a dicussion** to ask.
+Check the README first to see if this project accepts contributions. Most of my projects do, but some projects are not maintained or are for personal use only. If you're not sure, **create a discussion** to ask.
 
 ## Reporting Issues
 
